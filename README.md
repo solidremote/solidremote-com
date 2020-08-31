@@ -1,1 +1,1 @@
-# solidremote-com
+# solidremote.github.io
